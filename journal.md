@@ -8,4 +8,4 @@ I struggled with Python only because it overcomplicates itself, and the main thi
 # September 19, 2024
 This is a free week, I also laughed at unity over the past few days.
 # September 26, 2024
-I laughed at Unity some more and tried to do something outside the lesson, it didn't work the way I thought it would.
+I laughed at Unity some more and tried to do something outside the lesson, it didn't work the way I thought it would. Its important to follow exact instructions to exactly replicate an end result. The thing about code is one small misunderstanding can shatter the entire program, precision is key to avoid this. Characters in coding can mean a lot, _ and - are not the same.
