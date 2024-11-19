@@ -25,3 +25,7 @@ Nowadays we share information over the internet more often than we don't, so how
 # November 12, 2024
 The recent election has people in my community and around the US furious. People don't like that Trump won, you probably know the rest. After this my comminty had quite a few problems with the people who supported trump. Some arrests, some physical violence, the whole nine yards. These people have problems solving problems (Ironic). 
 Now for how computer science can assist here is quite simple, prevention of botting votes, finding hackers who can change these votes. The overall organization of the votes can also be assisted by computer science, whether it be through software or setting up firewalls. Through accurate utilization of computer software and A.I we can fix the major flaws of the political voting system.
+# November 19, 2024
+I'll just lead with the downsides of technological reliance for food production and transport. Major one: human error, more specifically power outages or somebody forgetting to charge something may lead to the whole system of getting food from one place to another collapsing or being delayed more likely. However the accessibility of food being transported hasn't really changed much other than more consistant routes from point A to point B. It doesn't make food cheaper but it overall makes food easier to get consistantly at local stores and resteraunts.
+
+
