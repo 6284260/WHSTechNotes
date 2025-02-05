@@ -43,3 +43,10 @@ If I was in a similar situation as TikTok I would attempt to justify that Singap
 # February 3, 2025
 Air Traffic control can always be optimized for success but can never reach perfection, we would need to go on the path where adding more data into the air traffic systems to accurately make better paths. Have calculations count with a relative path rather than exact so planes don't have to go near each other in the start. This will make planes be in proximity to each other almost never so that they cannot collide with each other making incidents. Via this design change it will bring some complications on pathing for planes but raise the safety of the flights.
 Following this would be a sequence of checking for bugs via "practice paths" where a flight is simulated that has already happened to test if the results are different. Via checking with the exact conditions as the previous flight, people can check for error through the comparison of the previous flight. These "practice paths" would occur frequently so passengers are under maximized safety. This reduces error and can save many lives over the course of time.
+# January 27, 2025
+    | Name     | Car | Mistake |
+    | :------- | :-- | :------ |
+    | Jimmy    | Honda Civic    |  Drilled hole in gas tank       |
+    | Kayla    | GMC Sierra    | Fix wrong problem        |
+    | Bart     | Toyota Corolla    | Left stains on carpet        |
+    | Harrison | Subaru Forester    | Left oil cap off        |
