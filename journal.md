@@ -50,3 +50,11 @@ Following this would be a sequence of checking for bugs via "practice paths" whe
     | Kayla    | GMC Sierra    | Fix wrong problem        |
     | Bart     | Toyota Corolla    | Left stains on carpet        |
     | Harrison | Subaru Forester    | Left oil cap off        |
+# February 11,2025
+| Shape    | Color | Count |
+| -------- | ----- | ----- |
+| Circle   |  green     |   7    |
+| Square   |  yellow     |   5    |
+| Hexagon  |  brown     |  6     |
+| Triangle |  purple     |   4    |
+| Octagon  |  red     |   3    |
