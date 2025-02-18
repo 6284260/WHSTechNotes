@@ -50,7 +50,7 @@ Following this would be a sequence of checking for bugs via "practice paths" whe
     | Kayla    | GMC Sierra    | Fix wrong problem        |
     | Bart     | Toyota Corolla    | Left stains on carpet        |
     | Harrison | Subaru Forester    | Left oil cap off        |
-# February 11,2025
+# February 11, 2025
 | Shape    | Color | Count |
 | -------- | ----- | ----- |
 | Circle   |  green     |   7    |
@@ -58,3 +58,5 @@ Following this would be a sequence of checking for bugs via "practice paths" whe
 | Hexagon  |  brown     |  6     |
 | Triangle |  purple     |   4    |
 | Octagon  |  red     |   3    |
+# February 18, 2025
+I recently learned that C++ printing words is annoying. I learned it from a youtube video and it was kinda funny watching somebody struggle with printing simple statements.
