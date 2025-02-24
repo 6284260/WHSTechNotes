@@ -60,3 +60,6 @@ Following this would be a sequence of checking for bugs via "practice paths" whe
 | Octagon  |  red     |   3    |
 # February 18, 2025
 I recently learned that C++ printing words is annoying. I learned it from a youtube video and it was kinda funny watching somebody struggle with printing simple statements.
+# February 24, 2025
+Technology can help bridge a gap between the generations in the future. Programs can give a relative definition of slang terms and keep formality simultatiously for those who lack understanding. It can keep the formality one generation is used to and define the slang they've never seen/heard before. Through this bridge the generations of the future can communicate in their environments of preference and understand one another.
+Slang should be left for informality. Schools have no need to teach it, just to know it, as the students will learn these slang terms 9 times out of 10. The informality slang terms bring can help simplify things when students lack understanding of a topic but these terms should stay out of their works outside social media. The schools don't need to teach these terms but they need to know them in case somebody can't understand in regular terms.
