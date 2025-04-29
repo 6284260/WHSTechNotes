@@ -77,3 +77,9 @@ AI can't really help me other than in organization purposes, since I test in a w
 # April 14, 2025
 The media bans in Florida are more detrimental than helpful to students. The situations where students couldn't finish work in a previous class but finished their work in their current class making doing the work when students have free time almost impossible. This can lead to students failing classes more and staying for tutoring if the classes they take are faster than they understand the material. Students have a much higher chance to fall behind under the limitations of school wifi should this be expanded to other schools.
 These policies also can cause students to be more depressed in their classes due to not being able to understand or cope with learning processes. Students also would not be happy to be in class in most cases due to not having a way to have a break and be reenergized for work through media. I also would not like these policies because I would not be able to have a break from work and work at my own pace while keeping up. Many students, myself included, under these policies would have to change the way they learn in class to the way their teachers accel at teaching, not one that they understand. This would make some students achieve less in educational environments and may reduce their confidence in themselves that may lead to self harm.
+# April 28, 2025
+| Name     | Flavor | Occasion | Price |
+| :------- | :----- | :------- | :---- |
+| Sally    | Chocolate  |  Graduation |   $35.00    | 
+| Michael  |  Vanilla | Farewell Party|    $37.00   | 
+| Emma     |  Carrot  |Birthday|  $39.00     | 
