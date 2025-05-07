@@ -83,3 +83,6 @@ These policies also can cause students to be more depressed in their classes due
 | Sally    | Chocolate  |  Graduation |   $35.00    | 
 | Michael  |  Vanilla | Farewell Party|    $37.00   | 
 | Emma     |  Carrot  |Birthday|  $39.00     | 
+# May 5, 2025
+The 100 men win only if they don't try to rush it. By stalling out the gorilla's stamina, the men will easily win once this threshold is met. The men can also go for weak points on the gorilla that are visible or exposed over the time of the engagement. Through the very long battle the men win, but if the men jump the gorilla all at once they lose, simple.
+Now this experiment would be responsible as it causes people to think about something counting many variables instead of random things. This shows that treands can cause people to think alongside each other for logical answers. This also shows that people can take inspriation from various media for comedic solutions that entertain but also allow others to place their own inputs on an idea. This shows that trends come from both logical solutions and entertaining solutions to problems, with entertainment bringing more attention and logic causing arguments.
