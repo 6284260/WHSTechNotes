@@ -89,3 +89,5 @@ Now this experiment would be responsible as it causes people to think about some
 # May 12, 2025
 The Chromebook challenge is not an ethical challenge in any way due to its destructive manner. Where the technology can result in explosions that can hurt students and other personell around. From a digital standpoint people should heavily discourage these actions to avoid costs for property damage and potential harm. The responsibilities of having school property implies respect for the property and this challenge violates this respect. The real world consequences would be easily explained through property damage bills, nothing crazy.
 The responisbility of safe using of tech needs to be enforced because of these trends. Thats the simple part, where there is rule breaking there is law enforcement or in this case rule enforcement. There needs to be more punishments for property damage because of these trends. That will discourage people from continuing these trends in their own schools.
+# May 19, 2025
+I am ready for summer, other than a few finals i have to finish i can coast to the summer.
